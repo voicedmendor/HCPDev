@@ -1,9 +1,0 @@
-{
-    "privileges" :
-    [
-        {
-            "name": "helloworld_access",
-            "description": "Access to HelloWorld Application"
-        }    
-    ]
-}
