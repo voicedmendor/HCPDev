@@ -1,0 +1,4 @@
+{
+    "exposed": true,
+    "authorization": ["dev.helloworld::helloworld_access"]
+}
