@@ -1,3 +1,0 @@
-service {
-    "SYS"."DUMMY" key generate local  "GeneratedID";
-}
